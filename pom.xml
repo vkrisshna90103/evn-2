@@ -39,7 +39,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://10.146.0.2:8081/repository/mobilebank-snap/</url>
+            <url>http://35.224.192.47:8081/repository/snapshot//</url>
         </snapshotRepository>
     </distributionManagement>
     <build>
